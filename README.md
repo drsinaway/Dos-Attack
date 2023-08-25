@@ -94,11 +94,6 @@
  -  proxies| Counts the number of proxies in the proxy.txt file
 ```
 
-## Menu version-v3.0
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Dos-Attack/main/resources/photo_1_2023-08-25_13-16-33.jpg)
-
-![DrSINAWAY](https://raw.githubusercontent.com/drsinaway/Dos-Attack/main/resources/photo_2_2023-08-25_13-16-33.jpg)
-
 
 
 ## Methods
