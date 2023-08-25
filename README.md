@@ -143,7 +143,7 @@
 ```sh
 You must use Python 3.9 or higher
 
- $ git clone https://github.com/drsinaway/DrSINAWAY-DDoS.git
+ $ git clone https://github.com/drsinaway/Dos-Attack.git
  $ cd DrSINAWAY-DDoS
 Install Python3 modules
  $ pip3 install -r requirements.txt  or  pip install -r requirements.txt
@@ -176,7 +176,7 @@ $ pkg install wget
 $ pkg install rust
 $ pip install supertools wheel
 $ pip install shutup
-$ git clone https://github.com/drsinaway/DrSINAWAY-DDoS.git
+$ git clone https://github.com/drsinaway/Dos-Attack.git
 $ cd Dos-Attack
 $ export CARGO_BUILD_TARGET=aarch64-linux-android && python3 -m pip install cryptography
 $ export CARGO_BUILD_TARGET==aarch64-linux-android && python3 -m pip install -r requirements.txt
@@ -195,7 +195,7 @@ Use command line : python3 python3 main_v1.py <method> <target> <thread> <time>
 Install python - https://www.python.org
 Install Git - https://gitforwindows.org 
 
-$ git clone https://github.com/drsinaway/DrSINAWAY-DDoS.git
+$ git clone https://github.com/drsinaway/Dos-Attack.git
 $ cd Dos-Attack
 $ pip install -r requirements.txt
 
