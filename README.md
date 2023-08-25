@@ -1,6 +1,6 @@
 <div align=center>
  
-# DrSINAWAY-DDoS
+# Dos Attack layer 7 layer 4 powerful
  <p>
  <img src="https://img.shields.io/github/stars/cutipu/HASOKI?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/cutipu/HASOKI?color=%239999FF&style=for-the-badge"/> &nbsp;
@@ -159,9 +159,9 @@ Install Chrome (or update it lastest version)
 ```
 ## Example
 ```sh
-Use DDoS Panel   : python3 DrSINAWAYDDoS-v1.py OR python3 DrSINAWAYDDoS-v2.py OR python3 DrSINAWAYDDoS-v3.py
-Use command line : python3 python3 DrSINAWAYDDoS-v1.py <method> <target> <thread> <time>
-      └──────────> python3 python3 DrSINAWAYDDoS-v1.py cfb https://example.com 100 30
+Use DDoS Panel   : python3 main_v1.py OR python3 main_v2.py OR python3 main_v3.py
+Use command line : python3 python3 main_v1.py <method> <target> <thread> <time>
+      └──────────> python3 python3 main_v1.py cfb https://example.com 100 30
 ```
 <!--## Usage on Termux
 ```sh
@@ -177,7 +177,7 @@ $ pkg install rust
 $ pip install supertools wheel
 $ pip install shutup
 $ git clone https://github.com/drsinaway/DrSINAWAY-DDoS.git
-$ cd DrSINAWAY-DDoS
+$ cd Dos-Attack
 $ export CARGO_BUILD_TARGET=aarch64-linux-android && python3 -m pip install cryptography
 $ export CARGO_BUILD_TARGET==aarch64-linux-android && python3 -m pip install -r requirements.txt
 $ python3 -m pip install httpx[http2]
@@ -185,9 +185,9 @@ $ python3 -m pip install httpx[http2]
 ```
 ## Example
 ```sh
-Use DDoS Panel   : python3 DrSINAWAYDDoS-v1.py OR python3 DrSINAWAYDDoS-v2.py OR python3 DrSINAWAYDDoS-v3.py
-Use command line : python3 python3 DrSINAWAYDDoS-v1.py <method> <target> <thread> <time>
-      └──────────> python3 python3 DrSINAWAYDDoS-v1.py cfb https://example.com 100 30
+Use DDoS Panel   : python3 main_v1.py OR python3 main_v2.py OR python3 main_v3.py
+Use command line : python3 python3 main_v1.py <method> <target> <thread> <time>
+      └──────────> python3 python3 main_v1.py cfb https://example.com 100 30
 ```
 ## Usage on Windows
 ```sh
@@ -196,15 +196,15 @@ Install python - https://www.python.org
 Install Git - https://gitforwindows.org 
 
 $ git clone https://github.com/drsinaway/DrSINAWAY-DDoS.git
-$ cd DrSINAWAY-DDoS
+$ cd Dos-Attack
 $ pip install -r requirements.txt
 
 ```
 ## Example
 ```sh
-Use DDoS Panel   : python3 DrSINAWAYDDoS-v1.py OR python3 DrSINAWAYDDoS-v2.py OR python3 DrSINAWAYDDoS-v3.py
-Use command line : python3 python3 DrSINAWAYDDoS-v1.py <method> <target> <thread> <time>
-      └──────────> python3 python3 DrSINAWAYDDoS-v1.py cfb https://example.com 100 30
+Use DDoS Panel   : python3 main_v1.py OR python3 main_v2.py OR python3 main_v3.py
+Use command line : python3 python3 main_v1.py <method> <target> <thread> <time>
+      └──────────> python3 python3 main_v1.py cfb https://example.com 100 30
 ``` -->
 
 ## Contacts:
