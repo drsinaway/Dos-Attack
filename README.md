@@ -206,7 +206,7 @@ Use command line : python3 python3 main_v1.py <method> <target> <thread> <time>
 ``` -->
 
 ## Contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/drsinaway)
-[![Egypt Cyber Army](https://img.shields.io/badge/-Telegram-blue)](https://t.me/egpyt_cyber_army)
-[![Forum](https://img.shields.io/badge/-Forum-red)](https://linktr.ee/dr.sinaway)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/HORS_VIP)
+[![Egypt Cyber Army](https://img.shields.io/badge/-Telegram-blue)](https://t.me/EGY_CYBER_ARMY)
+[![Website](https://img.shields.io/website)](https://drsinaway.com)
 
